@@ -1,0 +1,14 @@
+# emacs backup
+*~
+# temp files
+temp*
+temp*.*
+# dev (development) versions
+dev*
+# old files and directories
+old*
+node_modules/*
+# python compile files
+*.pyc
+__pycache__
+
