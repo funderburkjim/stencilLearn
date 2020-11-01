@@ -140,6 +140,7 @@ cp src/index.html index-build.html
 Now, use some server, such as xampp or the python http server,
  to run index-build.html in a browser.
 
+At github,  use [index-build.html](https://funderburkjim.github.io/stencilLearn/my-component/index-build.html)
 
 ## minification
 
@@ -161,6 +162,8 @@ Modify index-build1.html
 * change first name slightly so we'll see 'build1' in output of component.
 
 Then run index-build1.html in browser.
+
+At github,  use [index-build1.html](https://funderburkjim.github.io/stencilLearn/my-component/index-build1.html)
 
 ## Conclusion
 It is possible to get a completely compiled custom element with stencil.
